@@ -5,6 +5,5 @@ I am attempting to do this with a recurrent neural network
 
 Dependencies: <br>
 https://github.com/rsokl/noggin <br>
-https://github.com/numpy/numpy <br>
 https://github.com/rsokl/MyGrad <br>
 https://github.com/davidmascharka/MyNN
