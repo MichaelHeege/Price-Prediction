@@ -3,8 +3,8 @@
 The goal of this project is to create a function that can accurately predict future prices of goods and stocks.
 I am attempting to do this with a recurrent neural network
 
-Dependencies:
-https://github.com/rsokl/noggin
-https://github.com/numpy/numpy
-https://github.com/rsokl/MyGrad
+Dependencies: \n
+https://github.com/rsokl/noggin \n
+https://github.com/numpy/numpy \n
+https://github.com/rsokl/MyGrad \n
 https://github.com/davidmascharka/MyNN
